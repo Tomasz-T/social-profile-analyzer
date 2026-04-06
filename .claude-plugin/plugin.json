@@ -1,0 +1,6 @@
+{
+  "name": "social-profile-analyzer",
+  "version": "1.0.0",
+  "description": "Build personality profiles, digital twins, and communication guides from social media data exports",
+  "skills": ["skills/social-profile-analyzer"]
+}
