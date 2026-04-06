@@ -22,8 +22,9 @@ This skill reads your export, classifies every trait and interest by when it app
 
 ## Install
 
-```
-/install github:Tomasz-T/social-profile-analyzer
+```bash
+claude plugin marketplace add Tomasz-T/social-profile-analyzer
+claude plugin install social-profile-analyzer
 ```
 
 Then tell Claude something like: "Analyze my Facebook export at ~/Downloads/facebook-data" and the skill takes over.
