@@ -2,7 +2,7 @@
 
 Build personality profiles, digital twins, and communication guides from your social media data exports.
 
-[![Claude Code Skill](https://img.shields.io/badge/Claude%20Code-Skill-blue)](https://github.com/tomasz-truszkowski/social-profile-analyzer)
+[![Claude Code Skill](https://img.shields.io/badge/Claude%20Code-Skill-blue)](https://github.com/Tomasz-T/social-profile-analyzer)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ## The problem
@@ -23,7 +23,7 @@ This skill reads your export, classifies every trait and interest by when it app
 ## Install
 
 ```
-/install github:tomasz-truszkowski/social-profile-analyzer
+/install github:Tomasz-T/social-profile-analyzer
 ```
 
 Then tell Claude something like: "Analyze my Facebook export at ~/Downloads/facebook-data" and the skill takes over.
