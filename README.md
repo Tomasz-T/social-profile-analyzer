@@ -5,6 +5,10 @@ Build personality profiles, digital twins, and communication guides from your so
 [![Claude Code Skill](https://img.shields.io/badge/Claude%20Code-Skill-blue)](https://github.com/Tomasz-T/social-profile-analyzer)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
+<p align="center">
+  <img src="person.jpg" alt="Social Profile Analyzer" width="600">
+</p>
+
 ## The problem
 
 You downloaded your Facebook/LinkedIn/Twitter data export. Now you have a pile of JSON and CSV files spanning years of your digital life. What do you do with it?

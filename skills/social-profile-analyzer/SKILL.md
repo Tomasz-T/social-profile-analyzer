@@ -7,11 +7,17 @@ description: Use when the user wants to build a person profile, personality anal
 
 Build a person profile from social media data exports. Platform-agnostic — works with any export that contains timestamped personal data.
 
+## Intended Use
+
+This skill is a **self-discovery tool**. It helps people understand their own digital footprint — how they communicate, what they care about, and how they've evolved over time. Outputs like personality reports, digital twins, and memory timelines are designed for personal insight and AI personalization.
+
+The user must be the data subject, or have their explicit consent. If analyzing someone else's data, confirm consent before proceeding. Digital twins used in conversations with others should be disclosed as AI.
+
 ## Step 1: Ask the User
 
 Before any analysis, use AskUserQuestion:
 
-**Question 1:** "What is the path to your data export folder(s)? You can provide multiple paths if combining sources."
+**Question 1:** "What is the path to your data export folder(s)? You can provide multiple paths if combining sources. Is this your own data, or do you have the data subject's consent?"
 - Free text input
 
 **Question 2:** "Which outputs do you want?" (multi-select, default: all)
